@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+black
+ruff
+xgboost
+lightgbm
+catboost
+torch
+statsmodels
+# prophet
+ipykernel
+imblearn
