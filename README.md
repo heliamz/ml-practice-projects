@@ -28,13 +28,7 @@ This repository contains a collection of machine learning projects I've worked o
 - **Models**: Random Forest Regressor, Linear Regression
 - **Best R² Score**: 99.61% (Linear Regression with scaled features)
 
-### 5. [PyTorch Binary Classifier Tutorial](./pytorch_binary_classifier/)
-- **Objective**: Learn to build a binary classifier using PyTorch
-- **Source**: Educational Tutorial
-- **Framework**: PyTorch
-- **Dataset**: Synthetic data (for demonstration)
-
-### 6. [LLM Pipelines](./LLM/)
+### 5. [LLM Pipelines](./LLM/)
 - **Source**: Transformers Packt Course
 - **Objective**: Explore different Hugging Face Transformers pipelines
 - **Notebooks**:
@@ -62,8 +56,6 @@ ml-problems/
 ├── doge_price_prediction/
 │   ├── doge_price_prediction.ipynb
 │   └── DOGE-USD.csv
-├── pytorch_binary_classifier/
-│   └── pytorch_binary_classifier_tutorial.py
 ├── LLM/
 │   ├── 01_sentiment_analysis.ipynb
 │   ├── 02_feature_extraction.ipynb
